@@ -1,0 +1,11 @@
+.header{
+    background-color: #118CE5;
+    height: 210px;
+    width: auto;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
